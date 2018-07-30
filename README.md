@@ -1,2 +1,2 @@
 # Gitalk
-For zjuturtle.com Gitalk system
+For [zjuturtle.com](zjutrtle.com) [Gitalk](https://github.com/gitalk/gitalk) comment system.
